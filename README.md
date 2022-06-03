@@ -1,5 +1,4 @@
 # Motimeter
-Mood 
 
 Created with a very unique Framework called Codenameone
 
